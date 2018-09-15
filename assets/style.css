@@ -17,6 +17,7 @@ body {
 
 h1, h2, h3 {
     font-family: 'Ruslan Display', cursive;
+    
 }
 
 #buttonSection {
@@ -34,9 +35,34 @@ h1, h2, h3 {
 
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
 }
 
 #lossSection {
     margin-left: 50px;
-    
+    color: aqua;
+
+}
+
+#winSection {
+    color: aqua;
+
+}
+
+#random {
+    color: aqua;
+
+}
+
+#score{
+color: aqua;
+}
+
+#randomNumber {
+    color: white;
+}
+
+#totalNumber {
+    color: white;
+
 }
